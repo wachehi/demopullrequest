@@ -4,3 +4,4 @@ C
 D
 1
 2
+Pour les bonnes pratique , on va ajouter la notion de revue de code.
